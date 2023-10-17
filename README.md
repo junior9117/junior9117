@@ -1,6 +1,5 @@
 algoritmo "MediaDe5Alunos"
 // Função : Calcular a média das notas de 10 alunos e apresentar quem foi aprovado ou reprovado
-// Autor : Gustavo
 // Seção de Declarações
 var
 
